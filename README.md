@@ -1,0 +1,1 @@
+Head to src/main/java/com/studentassignone/studentassignone. Open a file that corresponds to the problem. You might need to remove packages to name to refactor to you device specific, don't Worry AI can help you with this too. But are required to understand fundamentals
